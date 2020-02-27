@@ -1,1 +1,1 @@
-alert('Hello World');
+// [6-2]
